@@ -1,2 +1,0 @@
-Runtime: 12 ms, faster than 10.77% of C++ online submissions for Kids With the Greatest Number of Candies.
-Memory Usage: 9.1 MB, less than 100.00% of C++ online submissions for Kids With the Greatest Number of Candies.
