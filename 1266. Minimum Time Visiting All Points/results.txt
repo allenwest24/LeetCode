@@ -1,0 +1,2 @@
+- Runtime: 20 ms, faster than 49.88% of C++ online submissions for Minimum Time Visiting All Points.
+- Memory Usage: 10.2 MB, less than 95.90% of C++ online submissions for Minimum Time Visiting All Points.
