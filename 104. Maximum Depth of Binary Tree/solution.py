@@ -5,9 +5,6 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
-    def split(self, root):
-        print("gjgj")
-    
     def maxDepth(self, root):
         """
         :type root: TreeNode
