@@ -1,4 +1,4 @@
 # LeetCode
 I do this when I'm bored.
 
-I don't code much in my job so this helps my fingers stay in shape.
+or prepping for interviews or learning a new language. Currently learning Rust for my upcoming summer internship. It's kinda like C++ mixed with old-english and sadness.
