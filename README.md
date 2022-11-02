@@ -1,4 +1,4 @@
 # LeetCode
 I do this when I'm bored.
 
-or prepping for interviews or learning a new language. Currently learning Rust for my upcoming summer internship. It's kinda like C++ mixed with old-english and sadness.
+Also to learn new languages and stay up to snuff of competetive programming. Currently writing my personal solution in Go, then the optimal solution if there is a better one in Python.
